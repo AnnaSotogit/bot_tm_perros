@@ -1,0 +1,3 @@
+0 Perros_Poodles
+1 Perros_Pugs
+2 Perros_Beagles
